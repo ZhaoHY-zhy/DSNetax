@@ -4,6 +4,7 @@ Paper: https://doi.org/10.1093/bib/bbae157
 ![The experimental process of this method is as follows:](https://github.com/ZhaoHY-zhy/pics/blob/main/Figure%201.png)
 
 **Method 1:**
+
    python merge_annotation.py --i_fasta test.fasta --o_seq2num test --o_taxo_class test.txt
    The required parameters：
      --i_fasta: The fasta file path to be annotated. 
