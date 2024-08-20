@@ -50,4 +50,6 @@ Paper: https://doi.org/10.1093/bib/bbae157
      --i_DSNetax_m: The DSNetax model file path. The default value is trained_DSNetax.pth.  
      --i_result_nums: Number of output results. The default value is 1. The optional value is 1 or 5.  
 
-The DNABERT model and the trained DSNetax model have been stored in Baidu web disk, and the specific address and extraction code are as follows:
+The DNABERT model and the trained DSNetax model have been stored in Baidu web disk, and the link and extraction code are as follows:
+Link：https://pan.baidu.com/s/1dgI8N1AWm3x2KGMlV5k0IA?pwd=z1h2 
+Extraction code：z1h2
