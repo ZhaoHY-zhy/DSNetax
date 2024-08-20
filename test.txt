@@ -1,0 +1,12 @@
+d__Archaea; p__Crenarchaeota; c__Bathyarchaeia; o__Bathyarchaeia; f__Bathyarchaeia; g__Bathyarchaeia; s__uncultured_marine
+d__Archaea; p__Asgardarchaeota; c__Odinarchaeia; o__Odinarchaeia; f__Odinarchaeia; g__Odinarchaeia; s__uncultured_archaeon
+d__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobrevibacter; s__uncultured_archaeon
+d__Archaea; p__Crenarchaeota; c__Bathyarchaeia; o__Bathyarchaeia; f__Bathyarchaeia; g__Bathyarchaeia; s__uncultured_marine
+d__Archaea; p__Asgardarchaeota; c__Odinarchaeia; o__Odinarchaeia; f__Odinarchaeia; g__Odinarchaeia; s__uncultured_archaeon
+d__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobrevibacter; s__uncultured_archaeon
+d__Archaea; p__Crenarchaeota; c__Bathyarchaeia; o__Bathyarchaeia; f__Bathyarchaeia; g__Bathyarchaeia; s__uncultured_marine
+d__Archaea; p__Asgardarchaeota; c__Odinarchaeia; o__Odinarchaeia; f__Odinarchaeia; g__Odinarchaeia; s__uncultured_archaeon
+d__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobrevibacter; s__uncultured_archaeon
+d__Archaea; p__Crenarchaeota; c__Bathyarchaeia; o__Bathyarchaeia; f__Bathyarchaeia; g__Bathyarchaeia; s__uncultured_marine
+d__Archaea; p__Asgardarchaeota; c__Odinarchaeia; o__Odinarchaeia; f__Odinarchaeia; g__Odinarchaeia; s__uncultured_archaeon
+d__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobrevibacter; s__uncultured_archaeon
